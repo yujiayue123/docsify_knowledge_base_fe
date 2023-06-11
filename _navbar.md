@@ -1,6 +1,7 @@
 <!-- _navbar.md -->
 
-- [首页](./README.md)
+- [首页](https://yujiayue123.github.io/docsify_knowledge_base_home)
+- [汇总](./README.md)
 
 - 链接到我
   - [博客园地址](https://www.cnblogs.com/yolocatcat)
