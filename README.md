@@ -8,3 +8,8 @@
 
 - 记录前端学习和工作过程中遇到的知识点
 - 持续更新中...
+
+### 其他
+
+- 目录生成工具：https://github.com/xxxxue/Docsify-Build-Sidebar
+- 若需要右侧为当前文件夹目录的话，就在那个文件夹下面创建\_sidebar.md 文件
